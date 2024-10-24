@@ -1,6 +1,8 @@
 # Free-Public-Wi-Fi-Analytics-across-Greater-Geelong-
 This Python-based analysis provides a comprehensive examination of public Wi-Fi usage across Greater Geelong, Victoria, Australia, with a focus on user engagement time, browser agents, device types, and visit frequency. The analysis aims to offer valuable insights into user behavior when utilizing free public Wi-Fi at various locations in the region.
 
+In addition, a test file is included to allow users to apply the same Python code to new datasets with a similar format. By simply modifying the file path in the first cell, users can seamlessly test different datasets and generate a variety of results. This feature enhances the flexibility of the analysis, enabling users to adapt the code for further exploration and insights across different data sources.
+
 The study leverages several Python libraries to facilitate data collection, processing, and visualization. Key libraries used include:
 - **Pandas** for reading and manipulating data files,
 - **GC** for efficient memory management through garbage collection,
